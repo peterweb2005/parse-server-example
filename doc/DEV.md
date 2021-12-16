@@ -2,10 +2,12 @@
 
 ##
 
-- scripts
-- env
-- package
+- scripts in bin/
+- env & .gitignore
+- package remove, upgrade
 - - removed kerberos
+
+##
 
 ```
 ncu -u
