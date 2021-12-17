@@ -1,10 +1,10 @@
-
 #
 
-##
+## start remote
 
 - ssh
 - git clone
+- install typescript globally
 - npm i & npm audit fix
-- copy env
+- upload env
 - ./bin/start.sh
