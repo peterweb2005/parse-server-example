@@ -1,0 +1,2 @@
+
+nohup npm run watch &

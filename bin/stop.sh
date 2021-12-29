@@ -1,2 +1,2 @@
 
-ps -ef | grep parse-server | grep -v grep | awk '{print $2}' | xargs kill
+ps -ef | grep ts-node | grep -v grep | awk '{print $2}' | xargs kill
